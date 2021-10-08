@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TokoMadia</string>
+    <string name="content_judul">Dress Korea</string>
+    <string name="content_price"> Rp. 85.000</string>
+    <string name="content_stok"> 50 pcs</string>
+    <string name="content_pengiriman"> Gratis ongkir diluar jawa minimal belanja Rp. 30.000</string>
+    <string name="content_detail"> Shirt-style oversized dress with a detachable belt. \nMaterial: Polyester \nColor: Terracotta Color shown may vary from the images due to the computer display and photography lighting.</string>
+</resources>
